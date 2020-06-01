@@ -7,7 +7,7 @@ The tutorials will be based on a series of jupyter notebooks and the contents to
 This is a work in progress and the contents will be updated as we go...
 
 # Prerequisites
-Each section will introduce its prerequisites
+Each section will introduce its prerequisites <br/>
 
 
 # Contents
@@ -18,11 +18,12 @@ Each section will introduce its prerequisites
 ## Working with Level 2 OC Data
 ### How to Fecth OC Data for the Area of Interest
 ### How to Work with OC Data Quality Flags
-### How to Reproject and Composit OC Daily Passes
+### How to Reproject and Composit OC Daily Passes <br/>
+
 
 
 ## Contributing
-Any contributions to improve the turotials is welcome
+Any contributions to improve the turotials is welcome <br/>
 
 
 
