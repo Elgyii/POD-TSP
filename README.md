@@ -11,7 +11,7 @@ Each section will introduce its prerequisites
 
 
 # Contents
-## [How to Install and Setup Python Environment (20200601)](https://github.com/Elgyii/POD-TSP/blob/master/python-installation-environment-setup.html)
+## [How to Install and Setup Python Environment](https://github.com/Elgyii/POD-TSP/blob/master/python-installation-environment-setup.ipynb)
 ## Getting Started with OC Data
 ### Where and How to Get OC Data
 ### How to Read the Data and Quick visualization
