@@ -1,0 +1,7 @@
+# notebook checkpoints
+.ipynb_checkpoints
+
+# ingone images etc.
+*.PNG
+*.h5
+        
