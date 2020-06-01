@@ -1,8 +1,8 @@
 # Ocean Colour Data Processing Tutorial Series with Python
 
-This tutorial series will focus introducing several aspects of dealing with on ocean colour (OC) data processing using Python.
+This tutorial series will focus on several aspects of dealing with on ocean colour (OC) data processing using Python.
 By no means it pretends to be a complete introduction to OC data processing.
-The tutorials will be based on a series on jupyter notebooks and the contents to be covered are as shown below
+The tutorials will be based on a series of jupyter notebooks and the contents to be covered are as shown below
 
 This is a work in progress and the contents will be updated as we go...
 
@@ -11,7 +11,7 @@ Each section will introduce its prerequisites
 
 
 # Contents
-## How to Install and Setup Python Environment (20200601)
+## [How to Install and Setup Python Environment (20200601)](https://github.com/Elgyii/POD-TSP/blob/master/python-installation-environment-setup.html)
 ## Getting Started with OC Data
 ### Where and How to Get OC Data
 ### How to Read the Data and Quick visualization
