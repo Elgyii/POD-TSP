@@ -11,14 +11,17 @@ Each section will introduce its prerequisites <br/>
 
 
 # Contents
-## [How to Install and Setup Python Environment](https://github.com/Elgyii/POD-TSP/blob/master/python-installation-environment-setup.ipynb)
-## Getting Started with OC Data
-### Where and How to Get OC Data
-### How to Read the Data and Quick visualization
-## Working with Level 2 OC Data
-### How to Fecth OC Data for the Area of Interest
-### How to Work with OC Data Quality Flags
-### How to Reproject and Composit OC Daily Passes <br/>
+#### Python Setup
+- [How to Install and Setup Python Environment](https://github.com/Elgyii/POD-TSP/blob/master/python-installation-environment-setup.ipynb)
+
+#### Getting Started with OC Data
+- Where and How to Get OC Data
+- How to Read the Data and Quick visualization
+
+#### Working with Level 2 OC Data
+- How to Fecth OC Data for the Area of Interest
+- How to Work with OC Data Quality Flags
+- How to Reproject and Composit OC Daily Passes <br/>
 
 
 
